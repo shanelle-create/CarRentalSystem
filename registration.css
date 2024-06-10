@@ -1,0 +1,16 @@
+form{
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    background-color: mistyrose;
+}
+
+input [type=text]:focus,input[type=email]:focus{
+    background-color: darkgrey;
+}
+.first{
+    display: flex;
+    align-items: center;
+    margin-bottom:10px;
+}
+
